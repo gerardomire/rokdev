@@ -67,7 +67,7 @@
       <div class=" col-lg-6 py-5 py-lg-0 order-2 order-lg-1" data-aos="fade-right">
         <h1>Más de 400 canales con un solo pago</h1>
         <h2>Costo de la aplicacion $150</h2>
-        <a href="https://enigmatic-eyrie-75956.herokuapp.com/comprar" class="btn-get-started scrollto">COMPRAR AHORA</a>
+        <a href="https://mighty-fjord-26088.herokuapp.com/comprar" class="btn-get-started scrollto">COMPRAR AHORA</a>
       </div>
       <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left">
         <img src="assets/img/hero-img.png" class="img-fluid" alt="">
